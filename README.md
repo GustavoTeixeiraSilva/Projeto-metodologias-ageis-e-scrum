@@ -1,5 +1,3 @@
-# Projeto-metodologias-ageis-e-scrum
-
 📚 Metodologias Ágeis e Scrum no Desenvolvimento Web
 
 Este repositório contém os artefatos do projeto acadêmico desenvolvido para o curso de Tecnologia da Informação do Centro Universitário UNA.
