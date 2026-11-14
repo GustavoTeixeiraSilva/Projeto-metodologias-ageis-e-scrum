@@ -70,7 +70,7 @@ O objetivo é representar visualmente a organização de projetos, Product Backl
 
 🔗 Acesse o protótipo interativo:
 
-Sistema de Gestão Scrum – A3 no Figma
+https://www.figma.com/design/Ixkrx1UBWcTxO3mDdCvbvX/Sistema-de-Gest%C3%A3o-Scrum-%E2%80%93-A3?node-id=0-1&p=f
 
 🎯 Objetivo do Projeto
 
